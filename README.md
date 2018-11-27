@@ -34,6 +34,7 @@
 ```
 >## CSS inline:
 ### Aplicar el CSS en las mismas etiquetas con el atributo Style.
+### EJEMPLO
 ```html
 <p>¡Hola <span style="color:#FF0000">amigo lector</span>!</p>
 ```
