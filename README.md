@@ -63,10 +63,15 @@
 <html>
 <head>
 	<title></title>
-	<script> esto es java </script>
+	<script> ESTO ES JAVASCRIPT </script>
 	
 </head>
 <body>
 	<script> ESTO ES JAVASCRIPT </script>
 </body>
 </html>
+## DIFERENCIA ENTRE CLASE E ID
+>## CLASE
+```html
+Una clase es una serie de estilos definidos que se pueden usar muchas veces en cualquier etiqueta HTML.
+```
