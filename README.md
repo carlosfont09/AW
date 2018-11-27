@@ -12,7 +12,7 @@
 ```
 ## EXPLICA LAS 3 FORMAS DE USAR EL CSS EN HTML
 ### CSS interno: 
-### En este caso, el CSS engloba a todo lo que haya dentro dandole un estilo a cada uno. 
+### El CSS se añade directamente en la cabecera HTML del documento. 
 ### EJEMPLO
 ```html
 <!DOCTYPE html>
@@ -27,7 +27,13 @@
 </head>
 ```
 ### CSS externo:
+### El CSS se añade en la cabecera del HTML, en el bloque <head></head>, de esta forma, los navegadores sabrán que deben aplicar los estilos de este archivo (index.css) al documento HTML actual.
+### EJEMPLO
 ```html
 <link rel="stylesheet" type="text/css" href="index.css" />
 ```
 ### CSS inline:
+### Aplicar el CSS en las mismas etiquetas con el atributo Style.
+```html
+<p>¡Hola <span style="color:#FF0000">amigo lector</span>!</p>
+```
