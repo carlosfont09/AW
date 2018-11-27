@@ -63,7 +63,7 @@
 <html>
 <head>
 	<title></title>
-	<script> ESTO ES JAVASCRIPT</script>
+	<script> esto es java </script>
 	
 </head>
 <body>
