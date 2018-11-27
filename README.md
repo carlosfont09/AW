@@ -57,15 +57,16 @@
 </html>
 ```
 ## COMO INTRODUCIR JAVASCRIPT EN HTML
->### Insertando una etiqueta de <script></script> en el head.
+>### Insertando una etiqueta de <script></script> en el head o en el body.
 ```html
 <!DOCTYPE>
 <html>
 <head>
 	<title></title>
-	<script></script>
+	<script> ESTO ES JAVASCRIPT</script>
 	
 </head>
 <body>
+	<script> ESTO ES JAVASCRIPT </script>
 </body>
 </html>
