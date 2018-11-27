@@ -39,6 +39,12 @@
 ```
 ## CREA UNA LISTA SIN ORDENAR 5 INGREDIENTES DE UNA RECETA DE COCINA
 ```html
+<!DOCTYPE>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
 <ul>
 	<li> Peregil </li>
 	<li> Limón </li>
@@ -46,4 +52,5 @@
 	<li> 2 Huevos </li>
 	<li> Media cucharadita de Sal </li>
 </ul>	
+
 ```
