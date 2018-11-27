@@ -76,3 +76,7 @@
 ```html
 Una clase es una serie de estilos definidos que se pueden usar muchas veces en cualquier etiqueta HTML.
 ```
+>## ID
+```html
+La Id es para un elemento único.
+```
