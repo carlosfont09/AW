@@ -70,6 +70,7 @@
 	<script> ESTO ES JAVASCRIPT </script>
 </body>
 </html>
+```
 ## DIFERENCIA ENTRE CLASE E ID
 >## CLASE
 ```html
