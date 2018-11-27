@@ -11,7 +11,6 @@
 </html>
 ```
 ## EXPLICA LAS 3 FORMAS DE USAR EL CSS EN HTML
-```html
 ### CSS interno: 
 <!DOCTYPE html>
 <html>
@@ -27,4 +26,3 @@
 ### CSS externo: 
 <link rel="stylesheet" type="text/css" href="index.css" />
 ### CSS inline:
-```
