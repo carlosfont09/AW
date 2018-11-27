@@ -56,3 +56,16 @@
 </body>
 </html>
 ```
+## COMO INTRODUCIR JAVASCRIPT EN HTML
+>###Insertando una etiqueta de <script></script> en el head.
+```html
+<!DOCTYPE>
+<html>
+<head>
+	<title></title>
+	<script></script>
+	
+</head>
+<body>
+</body>
+</html>
