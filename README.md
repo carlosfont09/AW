@@ -37,3 +37,13 @@
 ```html
 <p>¡Hola <span style="color:#FF0000">amigo lector</span>!</p>
 ```
+## CREA UNA LISTA SIN ORDENAR 5 INGREDIENTES DE UNA RECETA DE COCINA
+```html
+<ul>
+	<li> Peregil </li>
+	<li> Limón </li>
+	<li> Leche </li>
+	<li> 2 Huevos </li>
+	<li> Media cucharadita de Sal </li>
+</ul>	
+	```
