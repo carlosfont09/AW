@@ -1,5 +1,5 @@
 # AW
-1.Estructura mínima de una web
+## ESTRUCTURA MÍNIMA DE UNA WEB
 ```html
 <!DOCTYPE>
 <html>
@@ -10,9 +10,9 @@
 </body>
 </html>
 ```
-2. Explica las 3 formas de usar CSS en HTML
+## EXPLICA LAS 3 FORMAS DE USAR EL CSS EN HTML
 ```html
-CSS externo: 
+### CSS interno: 
 <!DOCTYPE html>
 <html>
 <head>
@@ -24,6 +24,7 @@ CSS externo:
     </style>
 </head>
 
-CSS interno:
-CSS embebido:
+### CSS externo: 
+<link rel="stylesheet" type="text/css" href="index.css" />
+### CSS inline:
 ```
