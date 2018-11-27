@@ -12,7 +12,8 @@
 ```
 ## EXPLICA LAS 3 FORMAS DE USAR EL CSS EN HTML
 ### CSS interno: 
-### En este caso, el CSS engloba a todo lo que haya dentro dandole un estilo a cada uno.
+### En este caso, el CSS engloba a todo lo que haya dentro dandole un estilo a cada uno. 
+### EJEMPLO
 ```html
 <!DOCTYPE html>
 <html>
