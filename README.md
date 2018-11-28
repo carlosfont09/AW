@@ -94,5 +94,7 @@ La Id es para un elemento único.
 ```
 ## LAS PSEUDOCLASES
 >### Constan de una clave precedida de dos puntos (:) que añadiremos al final del selector para indicar que daremos un estilo a los elementos seleccionados solo cuando estos se encuentren dentro del selector.
->### EJEMPLOS
+>## EJEMPLOS
+```html
 :active , :any, :checked, :default, :dir(), :disabled
+```
