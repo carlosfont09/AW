@@ -99,9 +99,21 @@ La Id es para un elemento único.
 :active , :any, :checked, :default, :dir(), :disabled
 ```
 ## MODELOS DE CAJA CSS
+```html
 >### Contenido (content): se trata del contenido HTML del elemento (las palabras de un párrafo, una imagen, el texto de una lista de elementos, etc.)
+```
+```html
 >### Relleno (padding): espacio libre opcional existente entre el contenido y el borde.
+```
+```html
 >### Borde (border): línea que encierra completamente el contenido y su relleno.
+```
+```html
 >### Imagen de fondo (background image): imagen que se muestra por detrás del contenido y el espacio de relleno.
+```
+```html
 >### Color de fondo (background color): color que se muestra por detrás del contenido y el espacio de relleno.
+```
+```html
 >### Margen (margin): separación opcional existente entre la caja y el resto de cajas adyacentes.
+```
