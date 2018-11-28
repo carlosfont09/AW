@@ -100,7 +100,7 @@ La Id es para un elemento único.
 ```
 ## MODELOS DE CAJA CSS
 ```html
- Contenido (content): se trata del contenido HTML del elemento (las palabras de un párrafo, una imagen, el texto de una lista de elementos, etc.)
+ Contenido (content): se trata del contenido HTML del elemento (las palabras de un párrafo, una imagen, el texto de una lista de elementos, etc.) 
 ```
 ```html
  Relleno (padding): espacio libre opcional existente entre el contenido y el borde.
@@ -116,4 +116,11 @@ La Id es para un elemento único.
 ```
 ```html
  Margen (margin): separación opcional existente entre la caja y el resto de cajas adyacentes.
+  margin-top, margin-right, margin-bottom, margin-left
+```
+```html
+Anchura (width): Controla la anchura de la caja de los elementos.
+```
+```html
+Altura (height): Controla la altura de los elementos.
 ```
