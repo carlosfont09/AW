@@ -126,7 +126,7 @@ Altura (height): Controla la altura de los elementos.
 ```
 ## SELECTORES CSS
 >### Son los que usamos para unir la hoja de estilos y los documentos a los que se aplique la hoja que estemos usando.
->###EJEMPLOS:
+>### EJEMPLOS:
 >#### SELECTORES BÁSICOS: 
 ```html
 Universal: *  
