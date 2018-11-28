@@ -88,6 +88,6 @@ La Id es para un elemento único.
 	<title></title>
 </head>
 <body>
-	<a href="http://www.google.com">Google</a>
+	<a href="pagina.html" target="_blank">Título del enlace</a>
 </body>
 </html>
