@@ -80,3 +80,14 @@ Una clase es una serie de estilos definidos que se pueden usar muchas veces en c
 ```html
 La Id es para un elemento único.
 ```
+## CÓDIGO PARA HACER UN ENLACE A OTRA PÁGINA Y QUE ESTA SE ABRA EN UNA NUEVA VENTANA
+```html
+<!DOCTYPE>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<a href="http://www.google.com">Google</a>
+</body>
+</html>
