@@ -143,3 +143,22 @@ Clase: .
 ID: #
 #nombre-del-ID{ propiedad: valor;}
 ```
+## ¿ A QUE AFECTAN ?
+```html
+p a { color: red; = 
+```
+```html
+p > a { color: red; } =
+```
+```html
+h1 + h2 { color: red } = 
+```
+```html
+a[class] { color: blue; } = 
+```
+```html
+a[class="externo"] { color: blue; } = 
+```
+```html
+a[href="http://www.ejemplo.com"] { color: blue; } = 
+```
