@@ -145,20 +145,23 @@ ID: #
 ```
 ## ¿ A QUE AFECTAN ?
 ```html
-p a { color: red; = 
+p a { color: red; = todos los enlaces que estan dentro de un parrafo que se pongan de color rojo.
 ```
 ```html
-p > a { color: red; } =
+p > a { color: red; } = todos los enlaces que vayan seguidos de un parrafo que se pongan de color rojo.
 ```
 ```html
-h1 + h2 { color: red } = 
+h1 + h2 { color: red } = que los elementos de dentro del h1 y h2 se vean de color rojo.
 ```
 ```html
-a[class] { color: blue; } = 
+a[class] { color: blue; } = Se muestran de color azul todos los enlaces que tengan 
+   un atributo "class"
 ```
 ```html
-a[class="externo"] { color: blue; } = 
+a[class="externo"] { color: blue; } =  Se muestran de color azul todos los enlaces que tengan 
+   un atributo "class" con el valor "externo"
 ```
 ```html
-a[href="http://www.ejemplo.com"] { color: blue; } = 
+a[href="http://www.ejemplo.com"] { color: blue; } = Se muestran de color azul todos los enlaces que apunten 
+   al sitio "http://www.ejemplo.com"
 ```
