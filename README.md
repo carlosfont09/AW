@@ -91,3 +91,6 @@ La Id es para un elemento único.
 	<a href="pagina.html" target="_blank">Título del enlace</a>
 </body>
 </html>
+```
+## LAS PSEUDOCLASES
+>### Constan de una clave precedida de dos puntos (:) que añadiremos al final del selector para indicar que daremos un estilo a los elementos seleccionados solo cuando estos se encuentren dentro del selector.
